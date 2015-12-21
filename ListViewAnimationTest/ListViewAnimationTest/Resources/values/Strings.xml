@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">ListViewAnimationTest</string>
+
+	<string name="expandorcollapsecard">这是第%d个单位的信息</string>
+</resources>

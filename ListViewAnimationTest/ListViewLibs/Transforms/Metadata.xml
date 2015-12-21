@@ -1,0 +1,22 @@
+﻿<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+
+   <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='IntKeyframeSet']" name="visibility">public</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='FloatKeyframeSet']" name="visibility">public</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='KeyframeSet']" name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='AnimatorSet']/method[@name='setDuration' and count(parameter)=1 and parameter[1][@type='long']]" name="return">com.nineoldandroids.animation.Animator</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='ValueAnimator']/method[@name='setDuration' and count(parameter)=1 and parameter[1][@type='long']]" name="return">com.nineoldandroids.animation.Animator</attr>
+
+  <remove-node path="/api/package[@name='com.nhaarman.listviewanimations.itemmanipulation.dragdrop']/interface[@name='DragAndDropListViewWrapper']"/>
+ 
+  <attr path="/api/package[@name='com.nhaarman.listviewanimations.util']/class[@name='AbsListViewWrapper']/method[@name='getListView']" name="managedReturn">Android.Views.ViewGroup</attr>
+
+   
+</metadata>

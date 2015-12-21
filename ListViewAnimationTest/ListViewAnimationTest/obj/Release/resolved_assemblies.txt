@@ -1,0 +1,6 @@
+D:\Summer\1Project\Zhongxin\ListViewAnimationTest\ListViewAnimationTest\obj\Release\assemblies\ListViewAnimationTest.dll
+D:\Summer\1Project\Zhongxin\ListViewAnimationTest\ListViewAnimationTest\obj\Release\assemblies\ListViewLibs.dll
+D:\Summer\1Project\Zhongxin\ListViewAnimationTest\ListViewAnimationTest\obj\Release\assemblies\Mono.Android.dll
+D:\Summer\1Project\Zhongxin\ListViewAnimationTest\ListViewAnimationTest\obj\Release\assemblies\mscorlib.dll
+D:\Summer\1Project\Zhongxin\ListViewAnimationTest\ListViewAnimationTest\obj\Release\assemblies\System.Core.dll
+D:\Summer\1Project\Zhongxin\ListViewAnimationTest\ListViewAnimationTest\obj\Release\assemblies\System.dll

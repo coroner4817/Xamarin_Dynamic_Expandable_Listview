@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="ListViewAnimationTest\ListViewAnimationTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.ZX1G22K8PX" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListViewAnimationTest AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
